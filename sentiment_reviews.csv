@@ -1,0 +1,16 @@
+document_id,clean_text,sentiment
+1,This painting is wonderful!!,positive
+2,The bag I have ordered is not as shown in the image.,negative
+3,The shoes quality is amazing!!,positive
+4,The taste of the food is unbelievable.,positive
+5,"The book is fantastic, it addresses all the topics that are important.",positive
+6,The phone battery life is terrible.,negative
+7,"Excellent customer service, very helpful staff.",positive
+8,The movie was too long and boring.,negative
+9,"I love the camera quality, it's superb!",positive
+10,"The delivery was delayed, but the product is great.",positive
+11,"Absolutely horrible experience, will not recommend.",negative
+12,The packaging was neat and clean.,positive
+13,"Had a neutral experience, nothing special.",neutral
+14,Amazing sound quality in these headphones.,positive
+15,The app is intuitive and user-friendly.,positive
