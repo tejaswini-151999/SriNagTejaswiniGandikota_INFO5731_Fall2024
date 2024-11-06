@@ -1,16 +1,41 @@
-document_id,clean_text,sentiment
-1,This painting is wonderful!!,positive
-2,The bag I have ordered is not as shown in the image.,negative
-3,The shoes quality is amazing!!,positive
-4,The taste of the food is unbelievable.,positive
-5,"The book is fantastic, it addresses all the topics that are important.",positive
-6,The phone battery life is terrible.,negative
-7,"Excellent customer service, very helpful staff.",positive
-8,The movie was too long and boring.,negative
-9,"I love the camera quality, it's superb!",positive
-10,"The delivery was delayed, but the product is great.",positive
-11,"Absolutely horrible experience, will not recommend.",negative
-12,The packaging was neat and clean.,positive
-13,"Had a neutral experience, nothing special.",neutral
-14,Amazing sound quality in these headphones.,positive
-15,The app is intuitive and user-friendly.,positive
+document_id	clean_text	sentiment
+1	I bought the IPhone 14 Pro Max as my first IPhone coming from Android because I wanted to try it out, and it works well! I brought it to my carrier to transfer phone numbers, had some trouble setting it up at first but I figured it out on my own. Battery works just fine, charges up to 100% easily.	positive
+2	It sucks to have to write a negative review about a bad experience with Amazon. I purchased this iPhone 14 Pro Max from Amazon Renewed, but received the wrong phone, and customer service was unhelpful. I had to pay extra for a replacement and it was very frustrating.	negative
+3	I was really hoping I’d get to write a great review and I do!! This phone is fabulous! Like brand new. Not a scratch on it. The battery capacity is still 100% even though it’s a used phone. Overall, fantastic in every way.	positive
+4	I purchased this iPhone 14 Pro Max from Amazon Renewed. The phone came with a couple of light scratches and a small dent but is in great condition overall. The battery health was at 88%, so I plan to get it replaced soon, but it's still working fine.	neutral
+5	This iPhone came in great condition, works like new. The camera, battery life, and performance are all amazing. 100% recommend to anyone looking for a high-quality refurbished phone!	positive
+6	I purchased this refurbished iPhone, it was in good condition overall, but I had some issues with setting it up and transferring data. Also, the seller did not include a charger, and the packaging was a little lackluster.	neutral
+7	I was worried about buying a refurbished phone, but it came looking practically brand new! No scratches, no dings. Battery health was 100% and everything works perfectly!	positive
+8	I love this phone but if you have the iPhone 13 Pro Max, I don't think upgrading to the 14 is worth it. The upgrades are minimal, and for the price, I'd rather just save my money for the next generation.	neutral
+9	I purchased this phone in Deep Purple, and it looks gorgeous. The performance is fast, and the camera quality is amazing, especially for the price. Battery life is also top-notch, very happy with the purchase.	positive
+10	Horrible experience with this iPhone. It was advertised as "like new," but it came with scratches on the screen, and the battery life was already at 85%. I expected more for a refurbished phone.	negative
+11	I am very pleased with this iPhone 14 Pro Max! It feels like a brand new device. The camera is excellent, and the display is so crisp. Definitely worth the money! Battery capacity is still at 100%.	positive
+12	The phone I received was in okay condition but had some small scratches on the back and a ding on the frame. The battery health was at 90%, and while it works fine, I wasn't blown away.	neutral
+13	This is the best phone I’ve owned in a while. I had a previous iPhone, but this one is so much faster, and the camera quality is stunning. Highly recommend!	positive
+14	The phone came looking almost new, but I’ve had some problems with Face ID not working properly. The customer service was not helpful, and I’m disappointed.	negative
+15	Excellent phone! Looks like new. I switched from Android and I'm very satisfied with the switch. The camera is great, and the overall performance is solid.	positive
+16	I’m not sure what the hype is about this phone. I found the size to be too big, and the performance wasn’t any better than my old iPhone 12. Battery life is average at best.	neutral
+17	I am so impressed with this phone! It’s like a brand new device. It works perfectly and looks flawless. The camera takes amazing pictures, and the battery lasts all day.	positive
+18	I purchased the iPhone 14 Pro Max, and while the performance is great, the phone feels a bit too bulky for my liking. However, it has a solid battery life, and I can't complain about the speed.	neutral
+19	This is my first time buying a refurbished phone, and I couldn’t be happier. The condition is near perfect, and I saved so much money. Battery health is still at 100%.	positive
+20	I’ve had nothing but issues with this phone. It had some serious cosmetic damage that wasn’t listed in the product description. I’m really disappointed with the quality of this refurbished phone.	negative
+21	The iPhone 14 Pro Max I received was in amazing condition. Not a single scratch or dent, and it feels brand new. The camera quality is amazing, and the performance is very fast.	positive
+22	Overall, I’m happy with this phone. It’s a little scratched around the edges, but the screen is perfect. I haven’t had any issues with performance, and the battery is lasting well so far.	neutral
+23	I purchased the refurbished phone, and it looks brand new. The performance is excellent, and the camera is outstanding. I’m very happy with my purchase.	positive
+24	This was a horrible purchase. The phone was supposed to come in pristine condition, but it arrived with a cracked screen and the battery was at 75%. Definitely not worth it.	negative
+25	Very impressed with this phone. It feels new, has great performance, and the battery life is much better than my old device. I’d definitely recommend it!	positive
+26	I bought this as a gift, and it arrived on time and looked great. However, the recipient had trouble with the Face ID setup, and it was frustrating. Overall, it works well though.	neutral
+27	The phone came in mint condition, no issues at all. Everything works as expected and the camera quality is superb. So happy with this purchase!	positive
+28	I was hesitant to buy a refurbished iPhone, but I took the plunge, and I’m glad I did. The phone looks and performs like new. No issues whatsoever.	positive
+29	Bought a refurbished iPhone, and although it works fine, the battery capacity was only at 85%. I expected more for the price I paid, but it’s still decent.	neutral
+30	I regret buying this iPhone. The screen was scratched and the battery life is already very poor. I will not purchase refurbished again.	negative
+31	I love my new iPhone 14 Pro Max! The phone looks like it’s brand new, the camera is amazing, and the display is super sharp. I’m a very happy customer.	positive
+32	The iPhone came with minor scratches on the body and the battery health was at 90%. The performance is still good, but I’m not satisfied with the condition of the phone.	neutral
+33	This iPhone is nearly perfect! I can’t believe how well it’s held up as a refurbished model. Battery life is excellent, and I’ve had no issues with it.	positive
+34	Not happy with my purchase. The phone came with a screen protector that was damaged, and the back cover had some scratches. Customer service wasn’t helpful.	negative
+35	The iPhone came in fantastic condition! It’s fast, the camera is great, and the battery is holding up well. Definitely worth it for the price.	positive
+36	I had some technical issues with my phone. The camera wouldn't load at first, and it took me a while to figure out. However, after restarting the phone, it works fine.	neutral
+37	I absolutely love this iPhone! The color is stunning, and the screen quality is incredible. The phone runs so smoothly and has great features.	positive
+38	The phone was okay. It had some minor scratches, and the battery health was 90%, which is fine, but I was expecting it to be better for the price.	neutral
+39	I would not recommend buying refurbished from this seller. The phone was in poor condition, and the battery was barely holding a charge. Really disappointed.	negative
+40	I’m so happy with my new iPhone! It’s almost like new, and it works perfectly. The camera is amazing and takes beautiful photos.	positive
